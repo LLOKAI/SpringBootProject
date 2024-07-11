@@ -2,7 +2,7 @@
 
 ## Overview
 
-BookReviews is a full-stack web application developed using Spring Boot for the back-end and Thymeleaf for the front-end. This application allows users to add, view, and review books. It features user authentication and role-based access control to manage access to different parts of the application.
+BookReviews is a full-stack web application developed using Spring Boot for the back-end and Thymeleaf (HTML/JavaScript) for the front-end. This application allows users to add, view, and review books. It features user authentication and role-based access control to manage access to different parts of the application.
 
 ## Features
 
